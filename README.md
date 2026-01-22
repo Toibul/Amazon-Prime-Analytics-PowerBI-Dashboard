@@ -37,3 +37,4 @@ The dashboard provides an interactive view of content distribution, categories, 
 ## 👤 Author
 **Toibul Sk**  
 GitHub: https://github.com/Toibul
+Screenshot: https://github.com/Toibul/Amazon-Prime-Analytics-PowerBI-Dashboard/blob/main/Amazon%20prime(SS).png
